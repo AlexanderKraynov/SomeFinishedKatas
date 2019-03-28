@@ -1,0 +1,3 @@
+C:/Users/krayn/Documents/GitHub/SomeFinishedKatas/cmake-build-debug/CMakeFiles/SomeFinishedKatas.dir
+C:/Users/krayn/Documents/GitHub/SomeFinishedKatas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krayn/Documents/GitHub/SomeFinishedKatas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

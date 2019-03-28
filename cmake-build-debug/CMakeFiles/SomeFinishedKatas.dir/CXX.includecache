@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/krayn/Documents/GitHub/SomeFinishedKatas/screen_lock_patterns.cpp
+unordered_set
+-
+utility
+-
+iostream
+-
+
